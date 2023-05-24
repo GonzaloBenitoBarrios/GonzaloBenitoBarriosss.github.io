@@ -1,0 +1,61 @@
+
+
+th{
+    color: black;
+}
+h1{
+    font-family: sans-serif;
+    -webkit-text-fill-color: blue;
+}
+h2{
+    font-family: sans-serif;
+    -webkit-text-fill-color: darkblue;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    font-family: sans-serif;
+    border-color: rgb(255, 255, 255);
+}
+table{
+    border-collapse: collapse;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+h3{
+    font-family: sans-serif;
+    -webkit-text-fill-color:  red;
+}
+table{
+    margin: 50px auto;
+    width:600px;
+    text-align: center;
+    
+}
+td{
+    padding: 7px;
+   
+    
+}
+#grupoA{
+    background-color: rgb(68, 112, 141);
+    border-collapse: collapse;
+    padding: 7px;
+     text-decoration: white;
+    color: black;
+}
+#martin{
+    border-color: black;
+    border-inline-style: none;
+    background-color: rgb(230, 230, 230);
+    border-top: 25px;
+    border-width: 0px;
+}
